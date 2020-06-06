@@ -53,7 +53,7 @@
 	<!-- Jumbotron -->
 	<div class="jumbotron mb-0 text-center">
 		<h1 class="display-4">Enter this button bellow for my GitHub repository</h1>
-		<a class="btn btn-success btn-lg" href="https://github.com/ayumaulina2106/implemented_java_hash_structure_to_web" role="button"><i class="fab fa-github"></i> Kunjungi Github</a>
+		<a class="btn btn-success btn-lg" href="https://github.com/huanglisia/Final_Lab_SDA/blob/master/UAS_SDA/index.php" role="button"><i class="fab fa-github"></i> Kunjungi Github</a>
 	</div>
 	<!-- End Jumbotron -->
 
